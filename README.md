@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/billalxcode/laravel-mazer-starter/main/screenshot.png)
+![Image](https://raw.githubusercontent.com/hensetiawan/laravel-mazer/main/mazer.png)
 
 <h1 align="center">Laravel + Mazer</h1>
 <p align="center">Mazer is a Admin Dashboard Template that can help you develop faster. We bring Mazer with Laravel starter project. It's completely free and you can use it in your projects.</p>
@@ -11,7 +11,7 @@ If you want to check the original template in HTML5 and Bootstrap, [click here](
 
 1. Clone this project
     ```bash
-    git clone https://github.com/billalxcode/laravel-mazer-starer laravel-mazer
+    git clone https://github.com/HenSetiawan/laravel-mazer.git
     cd laravel-mazer
     ```
 2. Install dependencies
